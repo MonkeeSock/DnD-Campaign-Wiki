@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Continnets
 ---
 
 This is a blank Quartz installation. Can I change this? What if I add a link?
