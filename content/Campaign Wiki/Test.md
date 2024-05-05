@@ -1,5 +1,3 @@
-[[CampaignWiki/Wiki/Index|Index]] 
-Don't Wok
 
 ---
 title: "Title"
