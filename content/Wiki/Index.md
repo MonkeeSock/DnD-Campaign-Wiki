@@ -1,10 +1,11 @@
 ---
 longform:
   format: scenes
-  title: Campaign Wiki
+  title: Wiki
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - WA
   sceneTemplate: Templates/Template.md
   ignoredFiles: []
 ---
