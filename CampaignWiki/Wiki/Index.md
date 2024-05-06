@@ -7,6 +7,7 @@ longform:
   scenes:
     - Untitled
     - Continets
+    - Untitled 1
   sceneTemplate: Templates/Template.md
   ignoredFiles: []
 ---
