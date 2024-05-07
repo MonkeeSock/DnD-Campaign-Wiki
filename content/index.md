@@ -6,7 +6,7 @@ This is a blank Quartz installation. Can I change this? Yes?
 
 [[Campaign|Campaign]]
 
-[[Another File|AnotherFile]]
+[[AnotherFile|Another File]]
 
 Why the fuck can't I add more pages.
 
