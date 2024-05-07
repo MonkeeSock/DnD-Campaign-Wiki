@@ -2,11 +2,15 @@
 title: Welcome to Quartz
 ---
 
-This is a blank Quartz installation. Can I change this? What if I add a link?
-[[content/Campaign Wiki/Test|Test]]
-[[content/Continents|Continents]]
+This is a blank Quartz installation. Can I change this? Yes?
+
 [[Campaign|Campaign]]
-Why the fuck can't I add more pages
+
+[[Another File|AnotherFile]]
+
+Why the fuck can't I add more pages.
+
+Because you are not putting them in the content directory.
 
 
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
