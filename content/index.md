@@ -1,6 +1,7 @@
 ---
 title: Welcome to the Campaign Wiki!
 ---
+[[Test|CampaignWiki/Test/Test]]
 
 This the campaign wiki!
 
