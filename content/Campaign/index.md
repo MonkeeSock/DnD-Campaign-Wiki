@@ -1,3 +1,0 @@
-# Campaign
-
-This is a campaign.

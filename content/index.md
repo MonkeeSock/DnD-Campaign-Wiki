@@ -1,18 +1,15 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the Campaign Wiki!
 ---
 
-This is a blank Quartz installation. Can I change this? Yes?
+This the campaign wiki!
 
-[[Campaign|Campaign]]
-
-[[AnotherFile|Another File]]
-
-[[Test|Test File]]
-
-Why the fuck can't I add more pages.
-
-Because you are not putting them in the content directory.
+Use this page to get started and explore some topic like:
+[[content/Religion/Religion|Religion]]
+The Planes
 
 
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+
+[[AnotherFile|Another File]] Thanks Dad!
+
