@@ -1,0 +1,13 @@
+---
+title: Elminster, The Silver Dragon
+draft: false
+tags:
+---
+ 
+Domains: Knowledge
+
+Symbol:
+
+Bio: While not the most powerful of the metallic dragons in terms of raw strength and personality, Elmisnter was always the most intelligent. His understanding of the arcane is rivaled by only a few beings, and fewer of those are mortals. After the Dragon Wars most of the dragon were killed or suspended is a strange slumber. Elmisnter, however, remained awake. Knowing the other dragons would return one day he worked to prepare the people if the world as best as he could.
+
+Worship: Those who worship the silver dragon value intelligence and remember the threat that tyranny of the chromatic dragons poses. Like Elmisnter, the dragon's followers believe that while knowledge is a powerful tool against evil, kindness and empathy are always the first line of defense.
