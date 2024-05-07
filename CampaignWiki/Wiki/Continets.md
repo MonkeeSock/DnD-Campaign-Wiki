@@ -1,9 +1,0 @@
-[[CampaignWiki/Wiki/Index|Index]] 
-Don't Wok
-
----
-title: "Title"
-draft: false
-tags:
-  - 
----
