@@ -8,6 +8,8 @@ This is a blank Quartz installation. Can I change this? Yes?
 
 [[AnotherFile|Another File]]
 
+[[Test|Test File]]
+
 Why the fuck can't I add more pages.
 
 Because you are not putting them in the content directory.
