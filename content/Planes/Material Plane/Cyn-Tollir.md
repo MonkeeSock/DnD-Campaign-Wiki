@@ -9,4 +9,4 @@ Cyn-Tollir is a large and diverse continent of the Material Plane, full of adven
 	[[Sulwaf|/RegionsCyn-Tollir/Sulwaf]]
 	Daeda
 	Escelius
-	The Clan-holds/ Tribes
+	Vokmir

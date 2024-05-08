@@ -8,7 +8,7 @@ There have bee two major Calamities in the history of the world and many more mi
 
 Major calamities include: 
 	[[The War of the Gods|Calamities/The War of the Gods]]
-	The Dragon Wars
+	[[The Dragon Wars|/The Dragon Wars]]
 
 Minor calamities include: 
 	The Fall of Illasara
