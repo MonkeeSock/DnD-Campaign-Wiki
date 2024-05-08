@@ -9,7 +9,7 @@ Use this page to get started and explore some topic like:
 
 
 
-The Planes
+[[The Material Plane|/Planes/The Material Plane]]
 
 
 
