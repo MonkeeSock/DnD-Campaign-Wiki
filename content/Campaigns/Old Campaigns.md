@@ -7,7 +7,7 @@ tags:
 There have been a number of campaigns set in this world. There have been two major campaigns and several more minor ones.
 
 Major Campaigns
-	Bandit Basher/ChroNicles
+	[[ChroNicles]],
 	Wynonian Knights
 
 Minor Campaigns:
