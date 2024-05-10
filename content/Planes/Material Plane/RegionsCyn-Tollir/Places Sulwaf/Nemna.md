@@ -7,5 +7,7 @@ The largest kingdom in [[Sulwaf|/RegionsCyn-Tollir/Sulwaf]], Nemna became the do
 
 This has led to conflicts of its own as the ancient capital of Nemna is far from the Cape but seeks to use this new wealth to fund an anticipated war with [[Admar]]. The people of the Cape of Balkrin, many of which are new immigrants, resent the demands of the capital leading to talks of independence. The debate is particularly heated in the city of [[Iartomita|/Places Sulwaf/Iartomita]]
 
+Map of Nemna: 
+![[Nemna SW.jpg|500]]
 
 [[Nemna SW.jpg]]
