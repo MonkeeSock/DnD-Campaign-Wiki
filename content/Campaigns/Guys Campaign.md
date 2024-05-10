@@ -1,7 +1,7 @@
 ---
-title: Example Title
+title: Guys Campaign
 draft: false
-tags: []
+tags:
 ---
  
 This campaign is currently in preparation and the title of the campaign may change.
