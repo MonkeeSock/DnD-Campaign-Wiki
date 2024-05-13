@@ -9,5 +9,3 @@ This has led to conflicts of its own as the ancient capital of Nemna is far from
 
 Map of Nemna: 
 ![[Nemna SW.jpg|500]]
-
-[[Nemna SW.jpg]]

@@ -8,7 +8,7 @@ There have been a number of campaigns set in this world. There have been two maj
 
 Major Campaigns
 	[[ChroNicles]],
-	Wynonian Knights
+	[[Wynonian Knights]]
 
 Minor Campaigns:
 	The Breightheim
