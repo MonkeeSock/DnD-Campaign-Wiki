@@ -15,6 +15,7 @@ If you'd like to explore other topics, try one of these!
 
 [[The Material Plane|/Planes/The Material Plane]]
 
+[[Gnomes]]
 
 
 

@@ -3,9 +3,9 @@ title: Gruumsh, Lord of Demons
 draft: false
 tags:
 ---
-Before he was the Lord of all Demons Gruumsh was a God. In the times before [[The War of the Gods|/Calamities/The War of the Gods]] there were many, many Gods with many more petty rivalries and jealousies. In those days the Gods took very active roles in the shaping of the Material Plane and often appeared as powerful avatars to live among the mortal souls they had created.
+Before he was the Lord of all Demons Gruumsh was a God. In the times before [[The War of the Gods|/Calamities/The War of the Gods]] there were many, many Gods with many more petty rivalries and jealousies. In those days the Gods took very active roles in the shaping of [[The Material Plane]] and often appeared as powerful avatars to live among the mortal souls they had created.
 
-When Gruumsh went to create the orcs he found all the Material Plane had been claimed. [[Val|/DeadGods/Val]] had claimed the forests for his elves, [[Teitheo|/PrimeDeities/Teitheo]] and Dumathoin the mountains for the dwarves and still more had been claimed by Gods and species now long since forgotten to time. 
+When Gruumsh went to create the [[Orcs]] he found all the Material Plane had been claimed. [[Val|/DeadGods/Val]] had claimed the forests for his [[Elves]], [[Teitheo|/PrimeDeities/Teitheo]] and [[Dumathoin]] the mountains for the dwarves and still more had been claimed by Gods and species now long since forgotten to time. 
 
 Seeking compromise, Gruumsh went to the other Gods and asked if they would not share their homes with his orcs. The other Gods all turned him down and told Gruumsh to seek out Val, who had once promised to share the forests with all the creatures of the Material Plane. When Gruumsh spoke to him, however, capricious Val had changed his mind and denied the request. 
 
