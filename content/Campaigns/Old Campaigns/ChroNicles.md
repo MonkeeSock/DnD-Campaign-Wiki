@@ -3,7 +3,7 @@ title: ChroNicles
 draft: false
 tags:
 ---
-The ChroNicles campaign consisted of the countless adventures of [[The Bandit Bashers|/The Bandit Bashers]], who began their story in the town of Decharu, in the kingdom of Ni. 
+The ChroNicles campaign consisted of the countless adventures of [[The Bandit Bashers|/The Bandit Bashers]], who began their story in the town of Decharu, in the kingdom of Ni, in [[Hen Ymorda]]. 
 
 The adventures began when The Bandit Bashers were hired to destroy a group of goblins who had taken over an abandoned watchtower on a hill near the town. The group accepted the job and investigated the tower, finding it at the top oh hill in the forest, surrounded by a 60 foot clearing. The top floor of the tower was a crumbling ruin, where a single goblin stood on watch. The crumbling wall of the top floor was still partly in tact, creating a blind spot for the goblin on watch.
 

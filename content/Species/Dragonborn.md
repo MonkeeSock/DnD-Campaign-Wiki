@@ -3,7 +3,7 @@ title: Dragonborn
 draft: false
 tags:
 ---
-Some say that during [[The War of the Gods]] the [[Dragons]] were created to be used as weapons during the war. Some of these dragons were corrupted by entities of the lower planes, creating the chromatic dragons. Once the war ended the gods largely left [[The Material Plane]], and the dragons, to their own devices. Others believe the dragons were summoned after the war to shepherd the plane and its inhabitants.  
+After [[The War of the Gods]] the [[Dragons]] were summoned to [[The Material Plane]] to shepherd the inhabitants there. The metallic dragons were summoned and bound there first by the [[Prime Deities]] but soon after the [[Archdevils]] summoned there own dragons.
 
 The dragons created their own species, the dragonborn, and built empires across the material plane. These empires became incredibly advanced in magic and science but came crashing down when the Dragon’s inevitably went to war with each other. 
 
