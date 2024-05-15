@@ -8,6 +8,6 @@ Domains: Trickery
 
 Symbol:
 
-Bio: The copper dragon, Calissmo, is one of the most cunning [[dragons]]. Calissmo is a master strategist and politician. Calissmo has vulpine features.
+Bio: The copper dragon, Calissmo, is one of the most cunning [[Dragons]]. Calissmo is a master strategist and politician. Calissmo has vulpine features.
 
 Worship:
