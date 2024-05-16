@@ -11,4 +11,4 @@ Seeking compromise, Gruumsh went to the other Gods and asked if they would not s
 
 Enraged, Gruumsh threw 1,000 spears into the earth and created 1,000 caves where he created his orcs and gave them space to live. As he created the orcs he fashioned them to be parasitic, requiring elves or other species as a host to make their young. The other species would never be at peace with orcs and orcs would never be at peace them. 
 
-Val took Gruumsh's actions as an insult and the two fought, leading armies of elves and orcs. Eventually, Val cut out Gruumsh's eye and the God retreated into the Astral Sea. As he wandered the Astral Sea Gruumsh stumbled upon a void caused by Entropy, which twisted his mind and began The War of the Gods. 
+Val took Gruumsh's actions as an insult and the two fought, leading armies of elves and orcs. Eventually, Val cut out Gruumsh's eye and the God retreated into the Astral Sea. As he wandered the Astral Sea Gruumsh stumbled upon a void caused by [[Entropy]], which twisted his mind and began The War of the Gods. 
