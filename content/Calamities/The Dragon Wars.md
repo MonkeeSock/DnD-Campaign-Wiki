@@ -3,7 +3,7 @@ title: The Dragon Wars
 draft: false
 tags:
 ---
-The Dragon Wars were the second major calamity in the history of the world. After [[The War of the Gods|/The War of the Gods]] the [[Dragons|/Dragons]] were brought to [[The Material Plane|/The Material Plane]] to help the sapient species rebuild. The metallic [[Dragons]] were sent by the [[Prime Deities|/Prime Deities]] to be a force of positive change while the Archdevils sent the chromatic dragons to sow evil and corrupt mortal souls. 
+The Dragon Wars were the second major calamity in the history of the world. After [[The War of the Gods|/The War of the Gods]] the [[Dragons|/Dragons]] were brought to [[The Material Plane|/The Material Plane]] to help the sapient species rebuild. The metallic [[Dragons]] were sent by the [[Prime Deities|/Prime Deities]] to be a force of positive change while the [[content/Religion/Archdevils/Archdevils|Archdevils]] sent the chromatic dragons to sow evil and corrupt mortal souls. 
 
 The dragons each brought with them their respective [[Dragonborn]] to help rebuild the fallen civilizations and repopulate the ruined Material Plane.
 
