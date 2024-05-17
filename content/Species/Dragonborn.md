@@ -5,7 +5,7 @@ tags:
 ---
 After [[The War of the Gods]] the [[Dragons]] were summoned to [[The Material Plane]] to shepherd the inhabitants there. The metallic dragons were summoned and bound there first by the [[Prime Deities]] but soon after the [[Archdevils]] summoned there own dragons.
 
-The dragons created their own species, the dragonborn, and built empires across the material plane. These empires became incredibly advanced in magic and science but came crashing down when the Dragon’s inevitably went to war with each other. 
+The dragons created their own species, the dragonborn, and built empires across [[The Material Plane]]. These empires became incredibly advanced in magic and science but came crashing down when the Dragon’s inevitably went to war with each other. 
 
 Dragonborn reflect the appearance of the dragon who created them:
 

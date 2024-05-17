@@ -8,7 +8,7 @@ The dragons were brought to and tied to [[The Material Plane|/Material Plane/The
 
 There are five chromatic dragons and five metallic dragons. In general the metallic dragons are good while chromatic dragons are evil. 
 
-While it is possible to destroy the physical body of a Dragon they will eventually reform somewhere on the Material Plane and their souls can not be destroyed. Most of the dragons were either killed or forced into a long slumber during [[The Dragon Wars|/The Dragon Wars]]
+While it is possible to destroy the physical body of a Dragon they will eventually reform somewhere on [[The Material Plane]] and their souls can not be destroyed. Most of the dragons were either killed or forced into a long slumber during [[The Dragon Wars|/The Dragon Wars]]
 
 Metallic dragons:
 	[[Glamthring|/Dragon/Glamthring]],

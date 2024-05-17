@@ -7,7 +7,7 @@ tags:
 
 Symbol: A storm cloud
 
-Bio: Garsooth is the Blue Dragon. His appearance is eel-like. Like [[Elminster|/Dragon/Elminster]], Garsooth was not killed during [[The Dragon Wars|/The Dragon Wars]] and remained awake. He prepared for the return of the [[Dragons]] as Elminster did. The two often undid the others preparations through indirect conflict. Eventually Garsooth conquered the southern continent known as Illaset. 
+Bio: Garsooth is the Blue Dragon. His appearance is eel-like. Like [[Elminster|/Dragon/Elminster]], Garsooth was not killed during [[The Dragon Wars|/The Dragon Wars]] and remained awake. He prepared for the return of the [[Dragons]] as Elminster did. The two often undid the others preparations through indirect conflict. Eventually Garsooth conquered the southern continent known as [[Illaset]]. 
 
 Centuries later Garsooth launched an assault on the region known as Hen Ymorda. [[The Bandit Bashers|/The Bandit Bashers]] stopped him. Ambrose Jones described the battle which ensued, "then he got spanked by an Applebee's employee and its founder, a death God zealot, the Legendary BBL and a demigod using lightning that worked for some reason."
 
