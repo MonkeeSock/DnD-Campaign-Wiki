@@ -15,4 +15,4 @@ The east side of the city is where the vast majority of the population live. In 
 
 
 
-![[Iartomita2.pdf|500]]
+![[Iartomita2.pdf]]
