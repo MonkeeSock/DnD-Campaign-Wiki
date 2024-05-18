@@ -9,6 +9,6 @@ The adventures began when The Bandit Bashers were hired to destroy a group of go
 
 Naturally, all but one members of the party charged the front door of the tower. The goblin on watch alerted those in the tower and were prepared as the party entered the tower. The goblins gathered on the first floor and unleashed a volley of arrows on the first one to open the door. The party began to flee, but they were chased by the goblins and shot down. Even [[Ambrose Jones]], who had snuck into the blind spot was taken down in a rescue attempt. 
 
-The characters who survived the initial volley were taken to a nearby cave and forced to work in the mines there. The surviving members, [[Illidan]] and Ambrose Jones, led the other goblin captives in a revolt and fought their way from the mines through the cave in a daring escape. Many of the prisoners died in this escape but those who survived were thankful for the heroes leadership and help.
+The characters who survived the initial volley were taken to a nearby cave and forced to work in the mines there. The surviving members, [[Illidan]] and [[Ambrose Jones]], led the other goblin captives in a revolt and fought their way from the mines through the cave in a daring escape. Many of the prisoners died in this escape but those who survived were thankful for the heroes leadership and help.
 
 Thus began the adventures of The Bandit Bashers, who would go on to found an empire, slay three [[Dragons]] ([[Caemaruse]], [[Raemose]] and [[Garsooth]]) and never maintain a low rate of casualties. 
