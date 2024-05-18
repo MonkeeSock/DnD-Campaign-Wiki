@@ -9,4 +9,10 @@ Iartomita stretches across both sides of the canal, with a bridge spanning the w
 
 The west side of the city is a built on a hill made from some of the dirt excavated during the construction of the canal. This part of the city is where the city and county governments sit along with the city's temples and its wealthiest members. 
 
-The east side of the city is where the vast majority of the population live. In recent years gangs have taken root in this district of the city and the city guard has had a difficult time combatting this from the other side of the bridge. 
+The east side of the city is where the vast majority of the population live. In recent years gangs have taken root in this district of the city and the city guard has had a difficult time combatting this from the other side of the bridge. Many of these gangs have been joining a loose organization known as The Friends, through a complex affiliate system. 
+
+
+
+
+
+![[Iartomita2.pdf|500]]
