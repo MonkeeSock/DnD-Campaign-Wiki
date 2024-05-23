@@ -11,5 +11,5 @@ Major calamities include:
 	[[The Dragon Wars|/The Dragon Wars]]
 
 Minor calamities include: 
-	The Fall of Illasara
+	The Fall of [[Illasara]]
 	The Collapse of Hen Ymorda
