@@ -12,3 +12,5 @@ Naturally, all but one members of the party charged the front door of the tower.
 The characters who survived the initial volley were taken to a nearby cave and forced to work in the mines there. The surviving members, [[Illidan]] and [[Ambrose Jones]], led the other goblin captives in a revolt and fought their way from the mines through the cave in a daring escape. Many of the prisoners died in this escape but those who survived were thankful for the heroes leadership and help.
 
 Thus began the adventures of The Bandit Bashers, who would go on to found an empire, slay three [[Dragons]] ([[Caemaruse]], [[Raemose]] and [[Garsooth]]) and never maintain a low rate of casualties. 
+
+The Bandit Bashers would go on to release [[Draenyth]] from his exile and found [[The Celestial Empire]]. 
