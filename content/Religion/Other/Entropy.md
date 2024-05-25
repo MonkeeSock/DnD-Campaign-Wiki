@@ -3,7 +3,7 @@ title: Entropy
 draft: false
 tags:
 ---
-While devout followers of the [[Prime Deities]] warn of the temptations of [[Devils]] and the chaos wrought by the [[Demon Hordes]] these evils are what they or the Gods truly fear. Entropy is most often mentioned only in reference to [[The War of the Gods]], and even then only in hushed whispers. 
+While devout followers of the [[Prime Deities]] warn of the temptations of [[Devils]] and the chaos wrought by the [[Demons]] these evils are what they or the Gods truly fear. Entropy is most often mentioned only in reference to [[The War of the Gods]], and even then only in hushed whispers. 
 
 Entropy is not good or evil, Entropy simply is, or more accurately is not. Entropy is The End of All Things. Some have called it decay, but this is wrong. Decay begets new life in a constant cycle of construction, deconstruction and reconstruction. Entropy is not deconstruction, it is subtraction, an absence or complete removal. 
 
