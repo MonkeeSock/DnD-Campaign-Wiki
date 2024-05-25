@@ -1,5 +1,5 @@
 ---
-title: Demon Hordes
+title: Demons
 draft: false
 tags:
 ---
