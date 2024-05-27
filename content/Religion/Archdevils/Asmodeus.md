@@ -10,4 +10,4 @@ Asmodeus began to corrupt mortal souls in order to build his legions and strengt
 
 Asmodeus is often associated with luck and twisted sense of fate. Gambling dens sometimes take on Asmodeus as their patron and gambler's down on their luck will sometimes pray to the king of [[Devils]], forgetting that the house always wins.
 
-He is married to archdevil [[Lilith]]. 
+He is married to archdevil [[Lilith]]. Like her, he is often associated with lust. Asmodeus a perfectly handsome man. He is suave and charming, and those who see him believe that pleasing him will make them accepted and loved by all. 
