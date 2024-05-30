@@ -11,4 +11,4 @@ The Archdevils are:
 	[[Asmodeus]],
 	[[Lilith]],
 	[[Furfur]] and 
-	
+	[[Dispater]] 
