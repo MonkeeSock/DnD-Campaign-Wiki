@@ -3,7 +3,7 @@ title: Draenyth
 draft: false
 tags:
 ---
-Draenyth was the God of death but was exiled during [[The War of the Gods]]. He was long thought dead but was eventually discovered in a demi-plane by [[The Bandit Bashers]]. The demi-plane consisted of a only a small island and a lonely lighthouse. During [[The War of the Gods]] he was the natural enemy of [[Beelzebub]].
+Draenyth was the God of death but was exiled from the [[Shadowfell]] during [[The War of the Gods]]. He was long thought dead but was eventually discovered in a demi-plane by [[The Bandit Bashers]]. The demi-plane consisted of a only a small island and a lonely lighthouse. During [[The War of the Gods]] he was the natural enemy of [[Beelzebub]]. Despite this he was ultimately killed by [[Al Na'sar]]. 
 
 Not knowing his true identity, the party helped Draenyth escape the demi-plane after capturing a damaged githyanki ship which happened to crash land in the plane. Earlier in their adventures the party had found a stone in an Eternal Observatory built by [[The Old Empire]]. The stone contained some of the exiled God's power and essence. Draenyth stole the stone and attempted to steal the stone and abandon the party. They captured him again, but decided to release him afterwards.
 
