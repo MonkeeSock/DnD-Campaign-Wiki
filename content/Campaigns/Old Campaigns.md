@@ -11,6 +11,6 @@ Major Campaigns
 	[[Wynonian Knights]]
 
 Minor Campaigns:
-	The Breightheim
-	D&D Club
+	The Breightheim,
+	[[Discordia in Incordia]]
 	

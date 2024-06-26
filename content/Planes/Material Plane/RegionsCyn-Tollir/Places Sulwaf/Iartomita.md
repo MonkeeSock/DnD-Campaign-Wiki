@@ -11,6 +11,10 @@ The west side of the city is a built on a hill made from some of the dirt excava
 
 The east side of the city is where the vast majority of the population live. In recent years gangs have taken root in this district of the city and the city guard has had a difficult time combatting this from the other side of the bridge. Many of these gangs have been joining a loose organization known as [[The Friends]], through a complex affiliate system. 
 
+[[The Brine Cloaks]] manage the Canal of Iartome, in particular the north and south gates which lead into and out of the city, as well as the great bridge which connects both sides of the city. They collect the taxes and fees associated with use of the canal that go directly to the king of [[Nemna]]. Because of their role in tax collection they are particularly hated by [[The Separatists]]. 
+
+[[The Loyalists]] are primarily based on the western side of the city, where the [[Count Dravish]] holds court and where the majority of the city's elite reside. This is in contrast to [[The Separatists]] who are spread throughout the city, finding support from both the city's upper and lower crusts. 
+
 
 
 
