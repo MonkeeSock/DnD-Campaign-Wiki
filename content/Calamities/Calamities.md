@@ -12,4 +12,4 @@ Major calamities include:
 
 Minor calamities include: 
 	The Fall of [[Illasara]]
-	The Collapse of Hen Ymorda
+	[[The Collapse of Hen Ymorda]]
