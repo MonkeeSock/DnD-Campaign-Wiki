@@ -13,7 +13,7 @@ Eventually, this changed when [[Glamthring|/Glamthring]] attacked [[Solva|/Solva
 
 The draconic empires entered pitched battles. The metallic dragons slew [[Caemaruse|/Caemaruse]] early on and Elminster defeated [[Raemose|/Raemose]] individually, baiting his arrogance. The great draconic civilizations fell into ruin as battle after battle decimated their populations and destroyed their metropolises. 
 
-Everything was set to culminate in one massive battle on [[Cyn-Tollir|/Cyn-Tollir]] in the region now called [[Vokmir]]. There the remaining draconic armies gathered, the metallic dragonborn led by Elminster and Calissmo and the chromatic by [[Caldor]] and Garsooth. [[Talthomis]] split from this group to delay Solva and his army from joining the battle. 
+Everything was set to culminate in one massive battle on [[Cyn-Tollir|/Cyn-Tollir]] in the region now called [[Vokmir]]. There the remaining draconic armies gathered, the metallic dragonborn led by Elminster and Calissmo and the chromatic by [[Caldor]] and [[Garsooth]]. [[Talthomis]] split from this group to delay Solva and his army from joining the battle. 
 
 Talthomis was eventually slain but Solva and his army were delayed in Daeda. Before the other battle could be finished, however, the dragons seemingly all disappeared. It was said some went into slumber, while others simply left.
 

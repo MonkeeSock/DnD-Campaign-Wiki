@@ -3,6 +3,8 @@ title: Session 1
 draft: false
 tags:
 ---
+New Rains 8 - New Rains 11
+
 The campaign began in the city of [[Iartomita]]. The players were all in a tavern called The Bard and the Bees. As the party ordered their drinks rats they heard thumps in the basement. As they went to investigate a number of rats burst out of the basement and attacked the party. The rest of the bystanders in the tavern fled the building, except a tiefling woman who leapt over the table and helped the party fight the rats. 
 
 The party leapt into action. [[Gris]] punched and kicked the rats, [[Lucien]] used psychic spells, [[Lykopsaro]] used his mace and divine magic and the tiefling woman used her gun. After the rats had been dealt with she introduced herself as [[Charity]] and invited the party to meet her at another place called the Crab Street Inn. She then left before any guards arrived to investigate the scene.
@@ -11,7 +13,7 @@ The party made their way to Crab St. and found [[Charity]] at the inn among othe
 
 Between Judd's and the library the party learned that the Fowe gang had offered to protect Judd's from the rats and learned that Fowe translated into rat in Hen Ymordan. While their they spoke to an eladrin named Evarran. [[Lucien]] was invited to some non-descript illicit activity at the docks the next morning, but the party never showed up. 
 
-The party then investigated a magic shop called Pevarra's. There they learned with decent certainty that the Fowe gang had sent the rats, but even though Pevarra knew this she went along with them in the hopes of avoiding being caught in a turf war. They also learned that the gang met in the back room of her place and had a meeting planned tonight. [[Lucien]] left a lock of his hair there to do a remote viewing later. 
+The party then investigated a magic shop called [[Pevarra]]'s. There they learned with decent certainty that the Fowe gang had sent the rats, but even though [[Pevarra]] knew this she went along with them in the hopes of avoiding being caught in a turf war. They also learned that the gang met in the back room of her place and had a meeting planned tonight. [[Lucien]] left a lock of his hair there to do a remote viewing later. 
 
 The party returned to the Crab St. Inn and informed [[Charity]] of what they had learned. They attempted to discourage Maurice from attacking Judd's with his brothers and revealed what they knew to him as well. 
 
