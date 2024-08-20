@@ -3,7 +3,7 @@ title: Welcome to the Campaign Wiki!
 ---
 This is the campaign wiki!
 
-The current date in the setting is the 11th of Novus Orsus (New Rains), year 30 of [[The Celestial Empire]].
+The current date in the setting is the 19th of Novus Orsus (New Rains), year 30 of [[The Celestial Empire]].
 
 If you'd like information about current campaigns look here: [[Current Campaigns|/Current Campaigns]]
 
