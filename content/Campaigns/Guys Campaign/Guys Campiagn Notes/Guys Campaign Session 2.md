@@ -40,7 +40,7 @@ As the ships collided Sinwar kept his distance landing devastating shots on the 
 
 In a critical move [[Lucien]] commanded the [[Dragonborn]] captain to drop and Sinwar used his swarm to push him off the edge of the ship. With him left behind in the water the rest of crew was either quickly defeated or soon surrendered.
 
-Once the crew was dispatched the party went below deck to free the prisoners on board. They found a group of golden [[Dragonborn]] of the Torbuck clan. Sinwar recognized Amaryllis Torbuck, daughter of Cormac Torbuck who had been a key figure in the [[Dragis Balor]] movement until he was killed in the disaster at [[Kelwar's Gap]].
+Once the crew was dispatched the party went below deck to free the prisoners on board. They found a group of golden [[Dragonborn]] of the Torbuck clan. Sinwar recognized [[Amaryllis]] Torbuck, daughter of Cormac Torbuck who had been a key figure in the [[Dragis Balor]] movement until he was killed in the disaster at [[Kelwar's Gap]].
 
 After speaking with the prisoners, interrogating the crew and retrieving the captain to interrogate him, the party determined that the captives were being brought to [[Almarra Forest]] as a sacrifices to the Cult of Azorack. 
 
