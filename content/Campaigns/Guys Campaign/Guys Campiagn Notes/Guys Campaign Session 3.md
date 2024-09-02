@@ -25,7 +25,7 @@ Finally, there was a pie eating competition to end the games of the day. Judd, [
 
 After the competitions there was a bonfire held on the beach. The party got a chance to catch up with each other about the days events and spent some time speaking with Amaryllis Torbuck, who thanks them again for rescuing her the day before. The party discussed there plans to move on the cult of Azorack. There was some discussion of the recently rescued Torbuck clan moving against the cult with the party, but it seemed that they were more inclined to rest and recuperate from their captivity for the time being. 
 
-To end the night the party watched a play depicting a story from [[The Fiends Crisis]]. Usually the plays on the holiday are about the city's history, but this particular one focused on the events in a village called Minarra. 
+To end the night the party watched a play depicting a story from [[The Fiends Crisis]]. Usually the plays on the holiday are about the city's history, but this particular one focused on the events in a village called [[Minarra]]. 
 
 The play followed the history of the village's resistance against Demonic Hordes that invaded the region during the crisis Through the combined forces of the villagers, local wood elves, a druid circle and a warlock named [[Callow]] the village was able to put up a desperate, impossible last stand. They held out against the horde that destroyed the regular army and even destroyed the horde later on without the assistance of devils later summoned by [[Count Dravish]]. This victory was largely due to some eldritch power unleashed by [[Callow]] before he was sucked beneath the ground, never to be seen again. 
 
