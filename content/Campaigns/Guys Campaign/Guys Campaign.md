@@ -13,7 +13,9 @@ Within [[Nemna]] itself there is a strong independence growing in [[Iartomita]] 
 The current members of the party are:
 	[[Lykopsaro]],
 	[[Gris]],
-	[[Lucien]]
+	[[Lucien]],
+	[[Sinwar Nakla Conghaile Hassan]],
+	[[Ronnie]]
 
 For a list of session summaries:
 [[Guys Campaign Summaries]]

@@ -23,7 +23,7 @@ During the wrestling match [[Lykopsaro]] spoke with Samuel Tai to learn more abo
 
 Finally, there was a pie eating competition to end the games of the day. Judd, [[Lykopsaro]], [[Gris]], [[Lucien]] and [[Crazy Ike]] all participated. Judd was the victor of last years competition, narrowly beating [[Crazy Ike]]. This year, however, Judd performed badly and [[Crazy Ike]] destroyed the competition earning a garland made to fit around his belly. 
 
-After the competitions there was a bonfire held on the beach. The party got a chance to catch up with each other about the days events and spent some time speaking with [[Amaryllis]] Torbuck, who thanks them again for rescuing her the day before. The party discussed there plans to move on the cult of Azorack. There was some discussion of the recently rescued Torbuck clan moving against the cult with the party, but it seemed that they were more inclined to rest and recuperate from their captivity for the time being. 
+After the competitions there was a bonfire held on the beach. The party got a chance to catch up with each other about the days events and spent some time speaking with [[Amaryllis]] Torbuck, who thanks them again for rescuing her the day before. The party discussed there plans to move on the cult of [[Azorack]]. There was some discussion of the recently rescued Torbuck clan moving against the cult with the party, but it seemed that they were more inclined to rest and recuperate from their captivity for the time being. 
 
 To end the night the party watched a play depicting a story from [[The Fiends Crisis]]. Usually the plays on the holiday are about the city's history, but this particular one focused on the events in a village called [[Minarra]]. 
 
