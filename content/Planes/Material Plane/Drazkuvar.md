@@ -1,0 +1,8 @@
+---
+title: Drazkuvar
+draft: false
+tags:
+---
+Drazkuvar, or The Drowned Lands, was a continent which once existed West of [[Cyn-Tollir]]. According to legend the continent was drowned by [[Azurlee]] during [[The War of the Gods]]. During the war [[Dumathoin]] held the continent out of the sea until he was drawn away and killed in what is now known as the region [[Sulwaf]]. After his death the bulk of the continent was immediately drowned, killing millions. Some small islands, however, were held above the waves by a mix of local deities and the divine servants of [[Dumathoin]] and other deities. 
+
+One by one, the remaining islands of Drazkuvar have been sunken as their divine guardians have either been destroyed or given up the fight. It is said that if one sails above the ancient site of the continent its land and cities can still be seen just below the surface and within reach. Those who leave their vessels and seek these lands always end up drowned as well. 

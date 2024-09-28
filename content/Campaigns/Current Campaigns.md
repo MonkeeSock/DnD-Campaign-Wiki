@@ -4,5 +4,5 @@ draft: false
 tags:
 ---
 There are two current campaigns. One is on going and the other is in preparation. 
-	[[Illaset]] Campaign
+	[[Illaset Campaign]]
 	[[Guys Campaign|/Guys Campaign]]
