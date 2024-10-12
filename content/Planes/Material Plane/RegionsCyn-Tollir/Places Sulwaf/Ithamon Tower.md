@@ -10,3 +10,13 @@ Because the tower's independence citizens of Nemna and the peninsula in particul
 The current [[Wizard of Ithamon]] is [[Calum Quaide Kincaid]]. He is generally reclusive and stays out of the city's and kingdom's affairs, avoiding conflict. His arcane services can be hired for quite a price. Some years ago the temple of [[Lifttan]] sent an armed force to retrieve proscribed knowledge from the tower and its former wizard and suffered a crushing defeat. 
 
 There have been many Wizards of Ithamon, each passing the title onto a worthy successor. 
+
+
+Ithamon Tower side view:
+![[IthatmonSide.jpg]]
+
+Ithamon Tower Up-close: 
+![[IthamonUp.jpg]]
+
+Ithamon Tower front:
+![[IthamonFront.jpg]]
