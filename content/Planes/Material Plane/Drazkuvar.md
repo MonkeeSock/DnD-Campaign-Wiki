@@ -7,8 +7,8 @@ Drazkuvar, or The Drowned Lands, was a continent which once existed West of [[Cy
 
 One by one, the remaining islands of Drazkuvar have been sunken as their divine guardians have either been destroyed or given up the fight. It is said that if one sails above the ancient site of the continent its land and cities can still be seen just below the surface and within reach. Those who leave their vessels and seek these lands always end up drowned as well. 
 
-There are only a handful of islands remaining, each named after the divine guardian which holds them above the consuming deep. Under the divine command of [[Apsalon]] war is forbidden amongst the inhabitants of the islands. This edict is generally circumvented through the use of hobgoblin mercenary companies. 
+There are only a handful of islands remaining, each named after the divine guardian which holds them above the consuming deep. Under the divine command of [[Ackriel]] war is forbidden amongst the inhabitants of the islands. This edict is generally circumvented through the use of hobgoblin mercenary companies. 
 
 The remaining islands are:
-	[[Apsalon Island]],
+	[[Ackriel Island]],
 	
