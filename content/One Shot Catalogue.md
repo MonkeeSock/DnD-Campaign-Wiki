@@ -5,4 +5,4 @@ tags:
 ---
 **Demon Mania**
 
-In the year 1087 C.Y., [[Nemna]] is overrun with [[Demons]]. 
+In the year 1087 C.Y., [[Nemna]] is overrun with [[Demons]] and you must survive. 
