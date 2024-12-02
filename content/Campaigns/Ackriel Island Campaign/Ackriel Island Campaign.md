@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
  
-The Ackriel Island Campain takes place on [[Ackriel Island]] in [[Drazkuvar]].
+The [[Ackriel Island]] Campain takes place on [[Ackriel Island]] in [[Drazkuvar]].
 
 Current player characters are:
 	[[Kharmon]],

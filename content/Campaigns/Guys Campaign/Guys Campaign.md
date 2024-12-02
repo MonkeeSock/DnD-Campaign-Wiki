@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
  
-This campaign is currently in preparation and the title of the campaign may change.
+This campaign is in progress but the title may change. 
 
 This campaign will take place in the kingdom [[Nemna]], specifically starting in the city of [[Iartomita]]. The kingdom is currently under tension from a variety of threats and social issues. Their is a constant threat of invasion from [[Admar]], a refugee crisis of [[Dragonborn]] from [[Vokmir]] caused by [[Caldor]] and his new kingdom [[Caldoria]]. 
 

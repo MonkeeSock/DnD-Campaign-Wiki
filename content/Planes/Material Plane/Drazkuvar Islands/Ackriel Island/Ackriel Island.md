@@ -7,4 +7,4 @@ Ackriel Island is the largest island of [[Drazkuvar]]. It is ruled by a Dwarvish
 
 The island is mostly mountainous terrain and terraced farming is a common practice. The political capital of the island is the dwarven stronghold of Karakur. The island's largest and most populous city, however, is on its southern tip and is called Maritome.  
 
-The island is named for the angel Apsalon, who is chief among those worshipped in the [[Drazkuvar]] faith. 
+The island is named for the angel [[Ackriel]], who is chief among those worshipped in the [[Drazkuvar]] faith. 
