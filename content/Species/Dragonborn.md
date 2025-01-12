@@ -23,7 +23,7 @@ Blue: These dragonborn are eel-like and have small fins on their bodies. Some of
 
 Red: Like brass dragonborn these dragonborn are lizard-like in appearance but are usually covered in hard, black spikes.
 
-White: Instead of scales these dragonborn are covered in thick, white fur. They are generally beastial in appearance.
+White: Instead of scales these dragonborn are covered in thick, white fur. They are generally beastial and ursine in appearance.
 
 Green: With green scales these dragonborn are serpent-like in appearance. They have serpentine fangs and often have an inflatable hood like cobras. 
 

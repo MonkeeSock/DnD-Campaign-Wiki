@@ -17,8 +17,8 @@ The next morning the party arrived at [[Lord Ivor]]'s manor and explained their 
 
 While the party spoke to Ivor Kharmon found Ivor's Wife, the Lady Dalianna, in the manor's gardens. A gardener herself, she was working on a small rose bush. Kharmon learned that she likely knew of [[Lord Ivor]]'s own infidelity and was seemingly not entirely opposed to some of her own.
 
-The party then went to speak with Radlam. They got his version of the story and tried to investigate their suspicions without raising his. Knura managed to entice Radlam into a date at the tavern.
+The party then went to speak with Radlam. They got his version of the story and tried to investigate their suspicions without raising his. [[Knura]] managed to entice Radlam into a date at the tavern.
 
-At that night Knura met with Radlam and Kharmon with Lady Dalianna. Both dates went well, with Kharmon's ending with a tender kiss. Knura searched through Radlam's belongings that night while he slept finding a ceremonial goblin dagger and a contract he had made with the Archdevil [[Lilith]].
+At that night [[Knura]] met with Radlam and Kharmon with Lady Dalianna. Both dates went well, with Kharmon's ending with a tender kiss. [[Knura]] searched through Radlam's belongings that night while he slept finding a ceremonial goblin dagger and a contract he had made with the Archdevil [[Lilith]]. They also learned Radlam's real name was [[Maldar]]
 
-The party presented [[Lord Ivor]] with their evidence and prepared to have Radlam arrested.
+The party presented [[Lord Ivor]] with their evidence and prepared to have [[Maldar]] arrested.

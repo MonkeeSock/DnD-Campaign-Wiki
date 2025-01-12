@@ -9,6 +9,8 @@ One by one, the remaining islands of Drazkuvar have been sunken as their divine 
 
 There are only a handful of islands remaining, each named after the divine guardian which holds them above the consuming deep. Under the divine command of [[Ackriel]] war is forbidden amongst the inhabitants of the islands. This edict is generally circumvented through the use of hobgoblin mercenary companies. 
 
+The Islands of Drazkuvar are all united under a High King on [[Ackriel Island]]. This leadership, however, is very decentralized and in many cases only a nominal show of fealty. The high houses of [[Ackriel Island]] and Drazkuvar are almost entirely mountain [[Dwarves]]. 
+
 The remaining islands are:
 	[[Ackriel Island]],
 	
