@@ -15,8 +15,6 @@ If you'd like to explore other topics, try one of these!
 
 [[Constellation Cycles]]
 
-[[Linguistic History]]
-
 [[The Material Plane|/Planes/The Material Plane]]
 
 [[Gnomes]]
