@@ -4,9 +4,11 @@ draft: false
 tags:
 ---
  
-Domains: Light, Life, Peace
 
-Symbol: A hearthstone and flame.
+
+| Doamins: | Light, Life, Peace      |
+| -------- | ----------------------- |
+| Symbol:  | A hearthstone and flame |
 
 Bio: As the Goddess of hearth and home Aelwan is strongly associated with feelings of comfort and love. She is the Goddess of hospitality, charity and generosity. Aelwan notably remained neutral during [[The War of the Gods]], not participating in any of the fighting.
 

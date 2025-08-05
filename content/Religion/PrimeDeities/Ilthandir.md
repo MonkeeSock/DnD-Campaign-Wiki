@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
  
-Domains: Life, peace
+Domains: Twilight, Light
 
 Symbol: A waxing crescent, a full moon and a waning crescent in a row. 
 

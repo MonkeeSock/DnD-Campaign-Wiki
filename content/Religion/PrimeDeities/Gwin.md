@@ -3,7 +3,7 @@ title: Gwin
 draft: false
 tags:
 ---
-Domains: Light, beauty, life
+Domains: Life, beauty, nature 
 
 Symbol: Barley and rye
 

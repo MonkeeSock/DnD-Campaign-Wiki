@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
  
-Domains: Light, grave
+Domains: Grave
 
 Symbol: An owl’s feather
 
