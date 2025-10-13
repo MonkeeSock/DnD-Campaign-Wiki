@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
  
-Domains: Order, twilight, war
+Domains: Light, Order, War
 
 Symbol: A sun rising behind a mountain, with an eagle’s feather
 

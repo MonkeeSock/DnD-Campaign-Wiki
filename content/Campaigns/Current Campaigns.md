@@ -3,6 +3,7 @@ title: Current Campaigns
 draft: false
 tags:
 ---
-There are two current campaigns. One is on going and the other is in preparation. 
-	[[Illaset]] Campaign
+There are three current campaigns.
+	[[Illaset Campaign]]
 	[[Guys Campaign|/Guys Campaign]]
+	[[Ackriel Island Campaign]]
